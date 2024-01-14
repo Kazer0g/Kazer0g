@@ -1,15 +1,9 @@
 <p align=center>
-    <img width="200px" class="avatar" alt="Avatar"  src="https://avatars.githubusercontent.com/u/90910163?v=4" align="center" alt="GitHub Readme Stats" />
+    <img width="200px" class="avatar" alt="Avatar"  src="https://avatars.githubusercontent.com/u/90910163?v=4" align="center" alt="GitHub Readme Stats" style="border-radius: 50%"/>
 
 <p>
 
 </p>
-
-<style>
-    .avatar{
-        border-radius: 50%
-    }
-</style>
 
 
 
