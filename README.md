@@ -5,13 +5,11 @@
 
 </p>
 
-<body>
-    <style>
-        .avatar{
-            border-radius: 50%
-        }
-    </style>
-</body>
+<style>
+    .avatar{
+        border-radius: 50%
+    }
+</style>
 
 
 
